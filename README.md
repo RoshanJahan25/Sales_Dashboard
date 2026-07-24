@@ -83,6 +83,6 @@ This dashboard can support data-driven decision-making by helping businesses ide
 
 ## Project Files
 
-- `Sales_Dashboard.pbix` - Power BI dashboard file
+- `https://github.com/RoshanJahan25/Sales_Dashboard/blob/main/Project_file` - Power BI dashboard file
 - `Sales_Data.xlsx` - Raw sales dataset
 - `Dashboard_Screenshot.png` - Dashboard preview
