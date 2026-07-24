@@ -1,12 +1,12 @@
 # Sales Dashboard
 
-## Project Overview
+# Project Overview
 
 This project presents an interactive Super Market Sales Dashboard developed to analyze sales performance, profitability, customer segments, product categories, payment methods, shipping modes, and monthly trends.
 
 The dashboard provides a consolidated view of key business metrics and helps identify sales patterns and performance areas for better decision-making.
 
-## Tools Used
+# Tools Used
 
 - Microsoft Power BI
 - Microsoft Excel
@@ -15,47 +15,35 @@ The dashboard provides a consolidated view of key business metrics and helps ide
 
 # Key Insights
 
-## Overall Business Performance
-
+# Overall Business Performance
 The business generated 1.57M in total sales and 175K in profit from approximately 22K orders, indicating strong overall sales performance.
 
-## Customer Segment Analysis
-
+# Customer Segment Analysis
 The Consumer segment contributes the largest share of sales, followed by the Corporate and Home Office segments.
-
 This indicates that individual consumers are the primary customer base.
 
-## Category Performance
-
+# Category Performance
 Office Supplies is the highest-performing product category, followed by Technology and Furniture.
 
-## Sub-Category Performance
-
+# Sub-Category Performance
 Phones generate the highest sales among the displayed sub-categories, followed by Storage and Tables.
-
 Supplies is the lowest-performing sub-category, which may represent an opportunity for improvement.
 
-## Payment Mode
-
+# Payment Mode
 COD is the most-used payment method, followed by Online payments and Cards.
-
 This indicates that customers use a combination of traditional and digital payment methods.
 
-## Shipping Analysis
-
+# Shipping Analysis
 Standard Class shipping generates the majority of sales, while Same Day shipping has the lowest sales contribution.
-
 This suggests that customers generally prioritize standard delivery over faster shipping options.
 
-## Monthly Trends
-
+# Monthly Trends
 Sales performance fluctuates throughout the year, with sales showing stronger performance toward the end of the year and reaching a high level in December.
-
 Profit trends also fluctuate, indicating that higher sales do not always result in proportionally higher profits.
 
 # Business Questions Answered by the Dashboard
 
-## This dashboard can help answer the following business questions:
+# This dashboard can help answer the following business questions:
 
 What are the total sales, total profit, and total orders?
 What are the total sales, total profit, and total orders?
@@ -73,15 +61,14 @@ Does the highest sales month also generate the highest profit?
 Which regions should the business focus on for future growth?
 Which product categories or sub-categories may require improvement?
 
-## Conclusion
-
+# Conclusion
 The dashboard provides a comprehensive overview of the supermarket's sales performance and highlights the major factors influencing business results.
 
 The analysis shows that the Consumer segment, Office Supplies category, Phones sub-category, and Standard Class shipping mode are important contributors to overall sales. However, fluctuations in monthly profit indicate that increasing sales alone may not always lead to proportional profit growth.
 
 This dashboard can support data-driven decision-making by helping businesses identify high-performing products, understand customer preferences, evaluate regional performance, and identify areas for improvement.
 
-## Project Files
+# Project Files
 
 [Power BI dashboard file](https://github.com/RoshanJahan25/Sales_Dashboard/blob/main/Project_file) 
 [Raw sales dataset](https://github.com/RoshanJahan25/Sales_Dashboard/blob/main/Project_file2) 
