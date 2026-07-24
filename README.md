@@ -84,5 +84,6 @@ This dashboard can support data-driven decision-making by helping businesses ide
 ## Project Files
 
 - `https://github.com/RoshanJahan25/Sales_Dashboard/blob/main/Project_file` - Power BI dashboard file
-- `Sales_Data.xlsx` - Raw sales dataset
-- `Dashboard_Screenshot.png` - Dashboard preview
+- `https://github.com/RoshanJahan25/Sales_Dashboard/blob/main/Project_file2` - Raw sales dataset
+- `<img width="653" height="379" alt="Super_Market_Sales_Dashboard" src="https://github.com/user-attachments/assets/8f3d4c63-c338-4e01-9a70-5bee5221b07c" />
+` - Dashboard preview
